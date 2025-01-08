@@ -1,0 +1,1 @@
+PRINT - show last value in stack

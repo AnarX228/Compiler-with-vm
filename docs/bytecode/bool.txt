@@ -1,0 +1,4 @@
+EQUALS - compare the last two values from the stack
+GREATER - >
+LESS - <
+IF - compare the last two values from the stack and execute instructions if true

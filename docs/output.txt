@@ -1,0 +1,5 @@
+print value;
+
+example:
+int a = 10;
+print a + 5; output - 15

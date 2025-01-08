@@ -1,0 +1,5 @@
+type name = value
+
+example:
+int i = 0;
+int result = 51 + i;

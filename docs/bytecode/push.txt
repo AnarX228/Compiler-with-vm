@@ -1,0 +1,5 @@
+PUSHI - push int
+PUSHB - push bool
+PUSHL - push list
+
+*list in dev*

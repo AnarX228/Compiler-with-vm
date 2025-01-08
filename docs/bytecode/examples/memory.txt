@@ -1,0 +1,8 @@
+PUSHI 52
+STORE x
+PUSHI 2
+LOAD x
+SUB
+PRINT
+
+-- output - 50

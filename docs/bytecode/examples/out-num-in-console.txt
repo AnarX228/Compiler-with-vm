@@ -1,0 +1,2 @@
+PUSHI 1
+PRINT

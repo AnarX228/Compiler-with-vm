@@ -1,0 +1,6 @@
+PUSHI 5
+PUSHI 2
+GREATER -- true
+IF [PUSH 52,PRINT]
+
+-- output - 52

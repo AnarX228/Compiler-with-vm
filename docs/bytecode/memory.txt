@@ -1,0 +1,2 @@
+STORE - save to memory
+LOAD - load from memory

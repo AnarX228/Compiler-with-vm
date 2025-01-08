@@ -1,0 +1,12 @@
+if (condition)
+{
+    commands(split ',')
+}
+
+example:
+var a = True;
+if (a)
+{
+    print a,
+    print True,
+}
